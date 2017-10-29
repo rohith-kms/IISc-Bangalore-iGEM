@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GCODe Mini GUI
+Comment=GCODe Mini GUI
+Exec=./gcode_gui.sh
+Terminal=false
+Type=Application
+Name[en_US.UTF-8]=GCODe Mini GUI Ubuntu
